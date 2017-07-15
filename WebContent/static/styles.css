@@ -1,0 +1,12 @@
+.black{
+	width: 25px;
+	height: 25px;
+	background-color: black;
+	display: inline-block;
+}
+.gray{
+	width: 25px;
+	height: 25px;
+	background-color: gray;
+	display: inline-block;
+}
